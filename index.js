@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑Blockchain Miners","Powered by Kaizaki"];
+const statusMessages = ["👑Primordials PH", "Axie Bot", "Axie Bot"];
 
 
 let currentIndex = 0;
